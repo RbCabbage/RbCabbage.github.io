@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(36, 36, 36);
+}
+
+div.solid{
+    border-style: solid;
+    border-color: white;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: monospace;
+}
+
+p, ul, li{
+    color: whitesmoke;
+    font-family: comic sans ms;
+}
